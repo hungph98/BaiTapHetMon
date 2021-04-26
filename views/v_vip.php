@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="./public/core/css/index-content.css"> 
-	<title>Vip</title>
+	<title>Bài Tập Hết Môn </title>
 	<link rel="stylesheet" href="public/core/css/bootstrap.min.css">
 	<link rel="stylesheet" href="./public/core/css/style-vip.css">
 </head>
